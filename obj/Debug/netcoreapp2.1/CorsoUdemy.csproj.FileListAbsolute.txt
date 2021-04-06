@@ -1,0 +1,14 @@
+C:\Users\giali\CorsoUdemy\bin\Debug\netcoreapp2.1\CorsoUdemy.deps.json
+C:\Users\giali\CorsoUdemy\bin\Debug\netcoreapp2.1\CorsoUdemy.runtimeconfig.json
+C:\Users\giali\CorsoUdemy\bin\Debug\netcoreapp2.1\CorsoUdemy.runtimeconfig.dev.json
+C:\Users\giali\CorsoUdemy\bin\Debug\netcoreapp2.1\CorsoUdemy.dll
+C:\Users\giali\CorsoUdemy\bin\Debug\netcoreapp2.1\CorsoUdemy.pdb
+C:\Users\giali\CorsoUdemy\obj\Debug\netcoreapp2.1\CorsoUdemy.csprojAssemblyReference.cache
+C:\Users\giali\CorsoUdemy\obj\Debug\netcoreapp2.1\CorsoUdemy.csproj.CoreCompileInputs.cache
+C:\Users\giali\CorsoUdemy\obj\Debug\netcoreapp2.1\CorsoUdemy.RazorAssemblyInfo.cache
+C:\Users\giali\CorsoUdemy\obj\Debug\netcoreapp2.1\CorsoUdemy.RazorAssemblyInfo.cs
+C:\Users\giali\CorsoUdemy\obj\Debug\netcoreapp2.1\CorsoUdemy.AssemblyInfoInputs.cache
+C:\Users\giali\CorsoUdemy\obj\Debug\netcoreapp2.1\CorsoUdemy.AssemblyInfo.cs
+C:\Users\giali\CorsoUdemy\obj\Debug\netcoreapp2.1\CorsoUdemy.RazorTargetAssemblyInfo.cache
+C:\Users\giali\CorsoUdemy\obj\Debug\netcoreapp2.1\CorsoUdemy.dll
+C:\Users\giali\CorsoUdemy\obj\Debug\netcoreapp2.1\CorsoUdemy.pdb
